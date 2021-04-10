@@ -1,0 +1,124 @@
+body{
+    margin: 0px;
+}
+#div1-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    padding-top: 0px;;
+    background: #172237;
+    height: 100px;
+}
+#div1-upper{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+}
+#div1-upper-p1{
+    font-size: 12px;
+    line-height: 22px;
+    font-family: "Roboto-new";
+    color: #fff;
+    margin-left: 60px;
+    margin-top: 5px;
+}
+#div1-upper-p2{
+    font-size: 11px;
+    line-height: 1.72;
+    font-family: "Roboto-new";
+    color: #fff;
+    margin-left: 300px;
+    margin-top: 5px;
+}
+#div1-lower{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+}
+#logo{
+    width: 140px;
+    height: 35px;
+    margin-left: 60px;
+}
+#search-bar{
+    height: 35px;
+    width: 600px;
+    margin-left: 50px;
+    margin-right: 0px;
+    border-radius: 4px;
+}
+#search-button{
+    height: 42px;
+    width: 60px;
+    border-radius: 4px;
+    margin-left: 0px;
+    position: relative;
+    left: -6px;
+    top: -4px;
+    background-color: orange;
+}
+#div1-lower-p{
+    font-size: 13px;
+    line-height: 9px;
+    font-family: "Roboto-new";
+    color: #fff;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+#div2-container{
+    background-color: gainsboro;
+    display: flex;
+    flex-direction: row;
+    height: 450px;
+}
+#div2-left{
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 15px;
+    width: 200px;
+}
+.div2-left-text{
+    line-height: 15px;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Roboto-new";
+}
+#div2-right{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+}
+#div2-mid{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+#div2-mid-img{
+    width: 700px;
+    height: 400px;
+}
+#div2-right-img1{
+    width: 300px;
+    height: 200px;
+}
+#div2-right-img2{
+    width: 300px;
+    height: 200px;
+}
+#top-c{
+    font-size: 11px;
+    color: #333333;
+    line-height: 1;
+    font-family: "Roboto-new";
+    margin-left: 10px;
+}
+.div2-left-text{
+    font-family: "Roboto-new";
+    color: #666;
+    line-height: 15px;
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 20px;
+    margin-top: 15px;
+}
